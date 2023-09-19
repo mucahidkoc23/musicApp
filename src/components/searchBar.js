@@ -11,7 +11,7 @@ const SearchBar = props => {
 const styles = StyleSheet.create({
   container: {
     padding: 5,
-    margin: 5,
+    margin: 6,
     borderRadius: 5,
     backgroundColor: '#eceff1',
   },
